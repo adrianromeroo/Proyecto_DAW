@@ -1,9 +1,9 @@
 # Proyecto DAW
-Título del Proyecto
+(Título del Proyecto)
 
 Curso Escolar 20XX-20XX
 
-Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+Autor: Adrian Romero Muñoz(https://github.com/adrianromeroo)
 
 Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
 
