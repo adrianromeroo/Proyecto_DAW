@@ -1,10 +1,16 @@
-# plantilla_proyecto_integrado
+# Proyecto DAW
 Título del Proyecto
+
 Curso Escolar 20XX-20XX
+
 Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+
 Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
+
 Fecha de Inicio: DD-MM-YYYY
+
 Fecha de Finalización: DD-MM-YYYY
+
 Breve descripción del proyecto
 Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es buscar un problema o necesidad a la que darle solución, y estos están por todas partes. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en cómo puedes resolverlos.
 
